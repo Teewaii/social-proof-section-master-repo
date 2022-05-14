@@ -71,6 +71,7 @@ body {
     font-size: 1.3rem;
     color: var(--DarkGrayishMagenta);
     margin-bottom: 2rem;
+    line-height: 1.5rem;
 }
 
 .review {
@@ -124,7 +125,7 @@ body {
 .user-profile p {
     color: var(--White);
     font-size: .8rem;
-    line-height: 1rem;
+    line-height: 1.5rem;
     text-align: left;
 }
 
